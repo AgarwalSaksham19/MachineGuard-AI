@@ -162,7 +162,6 @@ The trained model is stored in the backend and loaded when the application start
 
 # 📂 Project Structure
 
-
 MachineGuard-AI/
 │
 ├── backend/
@@ -183,7 +182,7 @@ MachineGuard-AI/
 │
 ├── frontend/
 │   ├── public/
-│   │   └── logo.png
+│   │   └── Logo.png
 │   │
 │   ├── src/
 │   │   ├── components/
@@ -226,9 +225,15 @@ MachineGuard-AI/
 │   ├── package.json
 │   └── vite.config.js
 │
+├── Screenshots/
+│   ├── Dashboard.png
+│   ├── Control Panel.png
+│   ├── Machine Telemetry.png
+│   ├── Download Report.png
+│   └── Timelog.png
+│
 ├── .gitignore
 └── README.md
-
 
 ---
 
