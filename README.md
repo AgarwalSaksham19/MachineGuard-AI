@@ -161,7 +161,7 @@ The trained model is stored in the backend and loaded when the application start
 ---
 
 # 📂 Project Structure
-
+```text
 MachineGuard-AI/
 │
 ├── backend/
@@ -234,7 +234,7 @@ MachineGuard-AI/
 │
 ├── .gitignore
 └── README.md
-
+```
 ---
 
 # 📊 Dataset
